@@ -13,4 +13,6 @@ Optional: Tutorial screens have updated page control dots. Button to get started
 Required: User can scroll through feed and open the conversation and settings screens via pish and modal
 Requred: User can sign out
 
+App Walkthrough: 
+
 ![Alt text](https://raw.githubusercontent.com/samjau/Carousel/master/carousel.gif "App walkthrough")
