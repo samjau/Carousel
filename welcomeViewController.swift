@@ -30,9 +30,9 @@ class welcomeViewController: UIViewController, UIScrollViewDelegate {
         
         // Set the current page, so the dots will update
         pageControl.currentPage = page
+        
         if page == 3 {
-            
-            UIView.animateWithDuration(0.5, animations:{            self.backupButton.alpha = 1
+            UIView.animateWithDuration(0.5, animations:{            self.backupButton.alpha = 100
                 self.pageControl.alpha = 0
             },completion: nil)
         }
